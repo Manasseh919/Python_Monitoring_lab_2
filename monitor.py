@@ -3,8 +3,8 @@ from mailjet_rest import Client
 import psutil
 
 
-api_key = '54eea5d8cf1345c0bbf59cf2b3f41389'
-api_secret = "341ccf0ae99d6247528ec8682ee1447f"
+api_key = ''
+api_secret = ""
 
 # Thresholds
 CPU_THRESHOLD = 2      # in %
